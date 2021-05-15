@@ -12,5 +12,5 @@ Python, Tableau, dash, построение дашбордов, продукто
 
 ## [Ссылка на исследование]( https://github.com/MelnikovSergey91/Project_Yandex.Practicum/blob/automation-board/dasboar.md)
 
-## [Презентация по исследованию]( https://github.com/tsladkova/Projects_YandexPracticum/blob/automatization_dash/dash_presentation.pdf)
+## [Презентация по исследованию]( https://github.com/MelnikovSergey91/Project_Yandex.Practicum/blob/automation-board/presentation.pdf)
 
