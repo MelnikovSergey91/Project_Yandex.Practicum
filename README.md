@@ -8,3 +8,5 @@
 
 ## Инструменты и навыки, задействованные при выполнения проекта
 Python, Pandas, Numpy, Matplotlib, Seaborn, PyMystem3, Scipy, исследовательский анализ данных, описательная статистика, предобработка данных, проверка статистических гипотез
+
+## [Ссылка на исследование](https://github.com/MelnikovSergey91/Project_Yandex.Practicum/commit/3a8a668f8ec0be5b90e762a75b89aae3760a2088)
