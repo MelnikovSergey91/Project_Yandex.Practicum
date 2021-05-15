@@ -8,3 +8,5 @@
 
 ## Инструменты и навыки задействованные при выполнения проекта:
 Python, Pandas, Numpy, Matplotlib, Seaborn, визуализация данных, исследовательский анализ данных, предобработка данных
+
+## [Ссылка на исследование](https://github.com/MelnikovSergey91/Project_Yandex.Practicum/blob/apartments-for-sale/apartments%20for%20sale.ipynb)
