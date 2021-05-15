@@ -9,3 +9,4 @@
 ## Инструменты и навыки задействованные при выполнения проекта
 Python, Pandas, Numpy, Matplotlib, Seaborn, Math, Scipy, описательная статистика, проверка статистических гипотез
 
+## [Ссылка на исследование](https://github.com/MelnikovSergey91/Project_Yandex.Practicum/blob/tariffs-for-telecom-companies/tariffs%20for%20telecom%20companies.ipynb)
