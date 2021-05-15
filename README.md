@@ -8,3 +8,5 @@
 
 ## Инструменты задействованные при выполнения проекта
 Python, Pandas, PyMystem3, Counter, лемматизация, предобработка данных.
+
+## [Ссылка на исследование](https://github.com/MelnikovSergey91/Project_Yandex.Practicum/blob/bank's-credit-clients/bank's%20credit%20clients.ipynb)
