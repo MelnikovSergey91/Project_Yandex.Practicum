@@ -10,7 +10,7 @@
 ## Инструменты и навыки, задействованные при выполнения проекта
 Python, Tableau, dash, построение дашбордов, продуктовые метрики
 
-## [Ссылка на исследование]( https://github.com/tsladkova/Projects_YandexPracticum/blob/automatization_dash/automatization_dash.md)
+## [Ссылка на исследование]( https://github.com/MelnikovSergey91/Project_Yandex.Practicum/blob/automation-board/dasboar.md)
 
 ## [Презентация по исследованию]( https://github.com/tsladkova/Projects_YandexPracticum/blob/automatization_dash/dash_presentation.pdf)
 
